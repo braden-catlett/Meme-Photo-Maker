@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meme Photo Editer</string>
+    <string name="color_picker">Choose a planet</string>
+
+    <string-array name="color_picker">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Purple</item>
+        <item>Orange</item>
+    </string-array>
+
+</resources>
